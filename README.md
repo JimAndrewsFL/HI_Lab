@@ -5,6 +5,6 @@
 
   # JimAndrewsFL's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[jimandrewsfl.github.io/HI_Lab](https://jimandrewsfl.github.io/HI_Lab)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
