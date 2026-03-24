@@ -1,7 +1,7 @@
 ---
 ---
 
-# Health Informatics Lab
+# Welcome to USF, School of Information's Health Informatics Lab
 
 A collaborative space for faculty, students, and partners to explore the intersection of health, information, and technology.
 
