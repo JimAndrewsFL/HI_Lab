@@ -3,7 +3,7 @@
 
 # Health Informatics Lab
 
-An engaging 1-3 sentence description of your lab.
+A collaborative space for faculty, students, and partners to explore the intersection of health, information, and technology.
 
 {% include section.html %}
 
