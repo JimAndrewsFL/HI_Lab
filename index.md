@@ -11,7 +11,7 @@ A collaborative space for faculty, students, and partners to explore the interse
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Several HIL students present at the 2026, USF Health Research Day.
 
 {%
   include button.html
