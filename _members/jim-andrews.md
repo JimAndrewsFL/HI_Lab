@@ -1,7 +1,12 @@
 name: James Andrews, PhD, FAMNIA
 image: images/Andrews_thumb.jpeg
 role: Co-Director
+description: faculty
 affiliation: USF, School of Information
+aliases:
+  -JE Andrews
+  -Jim Andrews
+  -J. Andrews
 
 links:
   home-page: [https://www.researchgate.net/profile/James-Andrews-14]
