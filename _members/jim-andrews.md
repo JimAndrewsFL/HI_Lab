@@ -4,7 +4,7 @@ role: Co-Director
 affiliation: USF, School of Information
 
 links:
-  home-page: [[https://janesmith.com](https://www.researchgate.net/profile/James-Andrews-14)]
+  home-page: [https://www.researchgate.net/profile/James-Andrews-14]
   orcid: https://orcid.org/0000-0001-6795-9003
 ---
 
