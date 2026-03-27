@@ -26,8 +26,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% capture content %}
 
-{% include figure.html image="images/Andrews_thumb.jpeg" %}
-{% include figure.html image="images/Chris2.jpeg" %}
+{% include jim-andrews.md image="images/Andrews_thumb.jpeg" %}
+{% include chris-eldredge.md image="images/Chris2.jpeg" %}
 {% include figure.html image="images/photo.jpg" %}
 
 {% endcapture %}
