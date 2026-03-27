@@ -2,7 +2,7 @@
 name: James Andrews
 image: images/Andrews_thumb.jpeg
 role: principal-investigator
-affiliation: University of South Florida
+affiliation: University of South Florida, School of Information, Health Informatics Lab
 aliases:
   - J. Andrews
   - J Andrews
