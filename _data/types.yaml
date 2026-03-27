@@ -2,10 +2,10 @@
 
 # team member roles
 
-Co-Director:
+principal-investigator:
   icon: fa-solid fa-microscope
-  description: Faculty
-  
+  description: Principal Investigator
+
 postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
