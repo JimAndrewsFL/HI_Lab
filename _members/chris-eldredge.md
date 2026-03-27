@@ -2,10 +2,14 @@
 name: Christina Eldredge, MD, PhD
 image: images/Chris2.jpeg
 role: Co-Director
+description: faculty
 affiliation: USF, School of Information
+aliases:
+  -C. Eldredge
+  -Eldredge
 
 links:
-  home-page: (https://janesmith.com](https://www.researchgate.net/profile/Christina-Eldredge-2)
+  home-page: [https://www.researchgate.net/profile/Christina-Eldredge-2]
   orcid: 
 ---
 
