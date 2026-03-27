@@ -8,8 +8,8 @@ aliases:
   - J Andrews
   - JE Andrews
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://www.researchgate.net/profile/James-Andrews-14
+  orcid: 0000-0001-6795-9003
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
