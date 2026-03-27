@@ -5,7 +5,7 @@ role: Co-Director
 affiliation: USF, School of Information
 
 links:
-  home-page: h[ttps://janesmith.com](https://www.researchgate.net/profile/Christina-Eldredge-2)
+  home-page: (https://janesmith.com](https://www.researchgate.net/profile/Christina-Eldredge-2)
   orcid: 
 ---
 
