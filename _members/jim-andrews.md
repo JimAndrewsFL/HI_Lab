@@ -4,8 +4,8 @@ role: Co-Director
 affiliation: USF, School of Information
 
 links:
-  home-page: [https://janesmith.com](https://www.researchgate.net/profile/Christina-Eldredge-2](https://www.researchgate.net/profile/James-Andrews-14)
-  orcid: 
+  home-page: [[https://janesmith.com](https://www.researchgate.net/profile/James-Andrews-14)]
+  orcid: https://orcid.org/0000-0001-6795-9003
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
