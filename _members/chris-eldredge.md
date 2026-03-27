@@ -2,7 +2,7 @@
 name: Christina Eldredge, MD, PhD
 image: images/Chris2.jpeg
 role: Co-Director
-description: faculty
+description: Co-Director
 affiliation: USF, School of Information
 aliases:
   -C. Eldredge
