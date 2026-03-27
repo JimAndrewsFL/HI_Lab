@@ -1,6 +1,6 @@
 ---
 name: Christina Eldredge, MD, PhD, FAMIA
-image: images/Chris2.jpeg
+image: images/chris2.jpeg
 role: Co-Director
 affiliation: University of South Florida, School of Information, Health Informatics Lab
 aliases:
