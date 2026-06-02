@@ -3,7 +3,7 @@
 
 # Welcome to the Health Informatics Lab
 
-A collaborative space for faculty, students, and partners to explore the intersection of health, information, and technology.
+<center> A collaborative space for faculty, students, and partners to explore the intersection of health, information, and technology. </center>
 
 {% include section.html %}
 
